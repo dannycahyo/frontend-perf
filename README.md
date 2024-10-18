@@ -28,15 +28,3 @@ This project contains examples of various frontend performance optimization tech
 **Directory:** `list-virtualization`
 
 - Uses `react-window` to efficiently render large lists by only rendering visible items, improving performance.
-
-### 5. Prefetching with Next.js
-
-**Directory:** `prefetching-nextjs`
-
-- Shows how to use Next.js's `Link` component with prefetching to load resources before they are needed, improving navigation speed.
-
-### 6. Cache-Control & CDN with Next.js
-
-**Directory:** `cache-control-nextjs`
-
-- Demonstrates setting HTTP caching headers in a Next.js application to optimize content delivery using Cache-Control headers.
