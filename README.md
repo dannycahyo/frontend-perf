@@ -27,7 +27,7 @@ This project contains examples of various frontend performance optimization tech
 
 **Directory:** `list-virtualization`
 
-- Uses `react-virtualized` to efficiently render large lists by only rendering visible items, improving performance.
+- Uses `react-window` to efficiently render large lists by only rendering visible items, improving performance.
 
 ### 5. Prefetching with Next.js
 
