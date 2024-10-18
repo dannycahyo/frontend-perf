@@ -1,0 +1,37 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  margin: 20px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.card-image {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+
+.card-content {
+  text-align: left;
+}
+
+.card-content h2 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.card-content p {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+  color: #555;
+}
