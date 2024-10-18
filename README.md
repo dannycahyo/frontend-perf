@@ -18,7 +18,7 @@ This project contains examples of various frontend performance optimization tech
 
 ### 3. Import on Visibility & Lazy Loading with react-loadable-visibility
 
-**Directory:** `lazy-loading`
+**Directory:** `lazy-loadable`
 
 - Demonstrates lazy loading of components using `react-loadable-visibility`, which loads components only when they are visible in the viewport.
 - Demonstrates the lazy loading of images by setting the `loading` attribute to `lazy` in the img html tags.
